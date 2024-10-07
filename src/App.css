@@ -35,6 +35,9 @@ html, body, #root {
   text-align: center;
 }
 
+button {
+  margin: 5px;
+}
 
 .logo {
   height: 6em;
